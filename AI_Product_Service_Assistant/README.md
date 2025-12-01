@@ -85,12 +85,6 @@ Inspired by real-world use cases from **Pickering Laboratories**.
 3. Deploy the frontend via Lovable.
 4. Activate the workflow.
 
----
-
-[Workflow Diagram](02_Product_and_Service_Assistant_Workflow_Diagram.png)
-[Chat UI](03_Chat_User_Interface_sreenshot.png)
-[Workflow JSON](01_Product_and_Service_Assistant_Workflow_Design.json)
-
 
 ---
 ## ⚠️ Disclaimer
@@ -100,6 +94,7 @@ This project is a **demonstration system for portfolio and educational purposes*
 
 ## 👤 Author
 **Kennedy**
+
 
 
 
